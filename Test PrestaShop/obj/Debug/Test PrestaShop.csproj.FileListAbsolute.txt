@@ -1,0 +1,15 @@
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\Test PrestaShop.dll.config
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\Test PrestaShop.dll
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\Test PrestaShop.pdb
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\nunit.framework.dll
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\WebDriver.dll
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\WebDriver.Support.dll
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\nunit.framework.pdb
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\nunit.framework.xml
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\WebDriver.xml
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\bin\Debug\WebDriver.Support.xml
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\obj\Debug\Test PrestaShop.csprojAssemblyReference.cache
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\obj\Debug\Test PrestaShop.csproj.CoreCompileInputs.cache
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\obj\Debug\Test PrestaShop.csproj.CopyComplete
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\obj\Debug\Test PrestaShop.dll
+C:\Users\48889\source\repos\Test PrestaShop\Test PrestaShop\obj\Debug\Test PrestaShop.pdb
